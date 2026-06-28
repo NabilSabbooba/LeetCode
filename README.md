@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/NabilSabbooba/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/NabilSabbooba/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NabilSabbooba/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/NabilSabbooba/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/NabilSabbooba/LeetCode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
