@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NabilSabbooba/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NabilSabbooba/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/NabilSabbooba/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/NabilSabbooba/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NabilSabbooba/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NabilSabbooba/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NabilSabbooba/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
